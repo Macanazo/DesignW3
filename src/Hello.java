@@ -1,7 +1,7 @@
 public class Hello {
 
     public static boolean getBitches(int a) {
-        if (a < 65{
+        if (a < 65){
             return true;
         }
         return false;
