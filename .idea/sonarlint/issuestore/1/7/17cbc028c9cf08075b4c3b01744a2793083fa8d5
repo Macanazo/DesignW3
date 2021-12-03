@@ -1,0 +1,8 @@
+
+T
+java:S3400"9Remove this method and declare a constant for this value.(Ùû°‘úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Õµ±¶
+S	java:S106"9Replace this use of System.out or System.err by a logger.(š¤ÊÕøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÏÁ±¤ÿÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
