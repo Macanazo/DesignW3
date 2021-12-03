@@ -1,10 +1,13 @@
+package DesignW3 {
 
-
-public class Hello {
+    public class Hello {
 
 
     public static boolean getBitches(int a) {
-        return a < 65;
+        if (a < 65) {
+            return true;
+        }
+        return false;
     }
 
     public static int fettyWap() {
@@ -12,10 +15,10 @@ public class Hello {
     }
 
     public static void main(String[] args) {
-
+        System.out.println("Hello World");
         System.out.println(getBitches(5));
         System.out.println(fettyWap());
-        System.out.println("Ay \n I'm like hey what's up hello");
     }
 
+}
 }
